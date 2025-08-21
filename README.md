@@ -1,2 +1,2 @@
-# Bin-gen
-generador de contraseñas
+### GENERADOR DE CONTRASEÑAS
+### CREADO POR GASTON
